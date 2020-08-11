@@ -17,6 +17,7 @@ html {
 	background: #3e454d;
 	padding: 20px;
 	overflow: auto
+        width: initial;
 }
 
 .xen-card .xen-cell {
