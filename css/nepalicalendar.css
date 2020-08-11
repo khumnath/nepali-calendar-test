@@ -7,7 +7,7 @@ html {
 .xen-card {
 	z-index: 10;
 	display: block;
-	width: 100%;
+	width: fit-content;
 	background: #fff;
 	box-sizing: border-box;
 	font-size: 13px
@@ -17,7 +17,7 @@ html {
 	background: #3e454d;
 	padding: 20px;
 	overflow: auto
-        width: initial;
+       
 }
 
 .xen-card .xen-cell {
